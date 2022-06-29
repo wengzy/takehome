@@ -3,14 +3,13 @@
 # File Name : BinanceTask.py
 # Purpose :
 # Creation Date : 2022-06-28 20:52:59
-# Last Modified : 2022-06-29 22:15:55
+# Last Modified : 2022-06-29 23:04:16
 # Created By :  John Weng 
 #=========================================================
 import requests
 import time
 import json
 import heapq
-import pandas as pd
 from prometheus_client import start_http_server, Gauge
 
 
